@@ -7,7 +7,7 @@ Program Structure:
 1.  Enter student profile data. Percentile guesstimates are required for
     letters of recommendation, statement of purpose, and research experience.
 2.  Enter schools under consideration and program ranking (0-100). The program
-    calculates approximate acceptance chances based on grad-cafe.com user data
+    calculates approximate acceptance chances based on thegradcafe.com user data
     and profile data. Program prints associated data for each school along with
     chances.
 3.  Enter a chance threshold for acceptance to at least one school
