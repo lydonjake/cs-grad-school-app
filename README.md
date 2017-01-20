@@ -9,3 +9,8 @@ Dependencies:
   - pymysql
   - scipy
   - numpy
+  
+### Todo List
+
+- [ ] Convert database to SQLite
+- [ ] Embed Python and SQLite in windows executable
