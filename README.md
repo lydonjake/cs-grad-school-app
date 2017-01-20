@@ -13,4 +13,4 @@ Dependencies:
 ### Todo List
 
 - [ ] Convert database to SQLite
-- [ ] Embed Python and SQLite in windows executable
+- [ ] Embed Python and SQLite in Windows executable
